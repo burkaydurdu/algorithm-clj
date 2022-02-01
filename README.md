@@ -3,6 +3,7 @@ Algorithmic questions and answers.
 
 ## Questions
 1️⃣ twisted sum
+2️⃣ function composition
 
 ## License
 
