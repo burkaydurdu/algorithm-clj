@@ -5,6 +5,7 @@ Algorithmic questions and answers.
 1️⃣ twisted sum <br/>
 2️⃣ function composition <br/> 
 3️⃣ largest difference <br/>
+4️⃣ human readable <br/>
 
 ## License
 
