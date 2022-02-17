@@ -6,6 +6,7 @@ Algorithmic questions and answers.
 2️⃣ function composition <br/> 
 3️⃣ largest difference <br/>
 4️⃣ human readable <br/>
+5️⃣ power sumdig <br/>
 
 ## License
 
