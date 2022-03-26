@@ -11,4 +11,3 @@
     (do-test 2 512)
     (do-test 3 2401)
     (do-test 4 4913)))
-

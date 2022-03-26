@@ -7,6 +7,7 @@ Algorithmic questions and answers.
 3️⃣ largest difference <br/>
 4️⃣ human readable <br/>
 5️⃣ power sumdig <br/>
+6️⃣ gapinprimes <br/>
 
 ## License
 
